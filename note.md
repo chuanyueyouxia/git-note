@@ -41,7 +41,7 @@ https://help.github.com/
 依托当前最Hot的开源社区，手把手地教你构建一个Git仓库，操作性强。缺点是知其然，不知其所以然。
 
 - codeschool的Try Git教程
-try.github.io
+http://try.github.io/
 一个在线交互式的教学网站，15分钟Git入门，基本涵盖了Pro Git第二章中的内容。强烈推荐。
 
 -----------------------
